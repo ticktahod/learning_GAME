@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zb9Hrjq3htlKtH7x0R9XQrjMUCWX29Zc0SIwEckSQRHMFo7hVgNSFB9eJHw2yRoLRKqatnznBUK3uwxPdQ9w/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\SWU 2-2565\\CP215\\1_Introduction\\Game01Drawing\\Game01Drawing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fooky\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Fooky\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Fooky\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Fooky\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Fooky\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Fooky\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
